@@ -1,10 +1,8 @@
-cat > .gitignore << 'EOF'
 .env
 intel_vectorstore/
 __pycache__/
 *.pyc
 .DS_Store
-data/
 logs/
 context/
 notebooks/
@@ -13,5 +11,3 @@ generate_dummy_data.py
 rag_pipeline.py
 rag_pipeline_v2.py
 CLAUDE.md
-EOF
-```

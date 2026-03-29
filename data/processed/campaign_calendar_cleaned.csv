@@ -1,0 +1,22 @@
+campaign_id,campaign_name,flight_start_date,flight_end_date,objective,target_audience,geo_scope,channels,spend_tier,spend_usd
+CU_2021_Q4,Alder Lake Consumer Launch,2021-11,2022-01,Awareness,Consumer,US,"TV,Digital,Social,Search",High,14000000
+EVO_2022_Q1,Evo Platform Spring,2022-02,2022-04,Consideration,Consumer,US,"Digital,Social",Medium,5500000
+BTS_2022,Back-to-School 2022,2022-07,2022-09,Purchase Intent,Consumer,US,"Digital,Social,Search",Medium,6000000
+RL_2022_Q4,Raptor Lake Launch Campaign,2022-09,2022-12,Awareness,Consumer,US,"TV,Digital,Social,Search,Video",High,16000000
+HOL_2022,Holiday Season 2022,2022-11,2022-12,Purchase Intent,Consumer,US,"TV,Digital,Social,Search",High,12000000
+CES_2023,CES 2023 Presence,2023-01,2023-01,Awareness,Consumer,US,"Digital,Social,Video",Medium,4000000
+EVO_2023_Q1,Evo Platform 2023,2023-02,2023-04,Consideration,Consumer,US,"Digital,Social",Medium,5000000
+BTS_2023,Back-to-School 2023,2023-07,2023-09,Purchase Intent,Consumer,US,"Digital,Social,Search",Medium,6500000
+AIPC_2023_Q4,AI PC Category Creation,2023-10,2024-01,Awareness,Consumer,US,"TV,Digital,Social,Search,Video",High,18000000
+CU_2023_Q4,Core Ultra Launch Campaign,2023-12,2024-02,Awareness,Consumer,US,"TV,Digital,Social,Search,Video",High,15000000
+CES_2024,CES 2024 AI PC Push,2024-01,2024-01,Awareness,Consumer,US,"Digital,Social,Video",Medium,5000000
+SPRING_2024,AI PC Spring Campaign,2024-03,2024-05,Consideration,Consumer,US,"Digital,Social,Search",Medium,7000000
+BTS_2024,Back-to-School AI PC,2024-07,2024-09,Purchase Intent,Consumer,US,"Digital,Social,Search",Medium,7500000
+LL_2024_Q3,Lunar Lake Launch Campaign,2024-09,2024-11,Awareness,Consumer,US,"TV,Digital,Social,Search,Video",High,14000000
+HOL_2024,Holiday Season 2024,2024-11,2024-12,Purchase Intent,Consumer,US,"TV,Digital,Social,Search",High,13000000
+CES_2025,CES 2025 Presence,2025-01,2025-01,Awareness,Consumer,US,"Digital,Social,Video",Medium,4500000
+SPRING_2025,Spring 2025 Brand,2025-03,2025-05,Consideration,Consumer,US,"Digital,Social,Search",Medium,6000000
+BTS_2025,Back-to-School 2025,2025-07,2025-09,Purchase Intent,Consumer,US,"Digital,Social,Search",Medium,7000000
+PL_2025_Q4,Panther Lake Launch Campaign,2025-10,2025-12,Awareness,Consumer,US,"TV,Digital,Social,Search,Video",High,16000000
+HOL_2025,Holiday Season 2025,2025-11,2025-12,Purchase Intent,Consumer,US,"TV,Digital,Social,Search",High,14000000
+CES_2026,CES 2026 Nova Lake Preview,2026-01,2026-02,Awareness,Consumer,US,"Digital,Social,Video",Medium,5000000

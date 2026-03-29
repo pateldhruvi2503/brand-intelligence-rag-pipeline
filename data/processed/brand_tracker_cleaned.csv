@@ -1,0 +1,40 @@
+wave_id,field_start_date,field_end_date,construct,score
+Q2_2021,2021-06,2021-07,Awareness,87.8
+Q2_2021,2021-06,2021-07,Consideration,50.1
+Q2_2021,2021-06,2021-07,Purchase Intent,36.9
+Q4_2021,2021-12,2022-01,Awareness,87.2
+Q4_2021,2021-12,2022-01,Consideration,48.2
+Q4_2021,2021-12,2022-01,Purchase Intent,37.0
+Q2_2022,2022-06,2022-07,Awareness,85.8
+Q2_2022,2022-06,2022-07,Consideration,48.2
+Q2_2022,2022-06,2022-07,Purchase Intent,35.4
+Q4_2022,2022-11,2022-12,Awareness,87.8
+Q4_2022,2022-11,2022-12,Consideration,49.1
+Q4_2022,2022-11,2022-12,Purchase Intent,37.1
+Q1_2023,2023-02,2023-04,Awareness,84.9
+Q1_2023,2023-02,2023-04,Consideration,47.3
+Q1_2023,2023-02,2023-04,Purchase Intent,35.0
+Q2_2023,2023-06,2023-06,Awareness,86.8
+Q2_2023,2023-06,2023-06,Consideration,50.8
+Q2_2023,2023-06,2023-06,Purchase Intent,35.7
+Q3_2023,2023-08,2023-09,Awareness,87.1
+Q3_2023,2023-08,2023-09,Consideration,49.5
+Q3_2023,2023-08,2023-09,Purchase Intent,36.3
+Q4_2023,2023-11,2023-12,Awareness,87.5
+Q4_2023,2023-11,2023-12,Consideration,50.9
+Q4_2023,2023-11,2023-12,Purchase Intent,38.1
+Q1_2024,2024-02,2024-03,Awareness,86.4
+Q1_2024,2024-02,2024-03,Consideration,49.3
+Q1_2024,2024-02,2024-03,Purchase Intent,36.0
+Q2_2024,2024-05,2024-06,Awareness,85.4
+Q2_2024,2024-05,2024-06,Consideration,50.0
+Q2_2024,2024-05,2024-06,Purchase Intent,35.7
+Q4_2024,2024-11,2024-12,Awareness,86.4
+Q4_2024,2024-11,2024-12,Consideration,50.0
+Q4_2024,2024-11,2024-12,Purchase Intent,37.7
+Q2_2025,2025-05,2025-06,Awareness,87.4
+Q2_2025,2025-05,2025-06,Consideration,50.5
+Q2_2025,2025-05,2025-06,Purchase Intent,35.5
+Q4_2025,2025-11,2025-12,Awareness,87.2
+Q4_2025,2025-11,2025-12,Consideration,51.2
+Q4_2025,2025-11,2025-12,Purchase Intent,37.6

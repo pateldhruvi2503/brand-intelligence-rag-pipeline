@@ -1,0 +1,14 @@
+wave_id,fielding_month,fielding_start_date,fielding_end_date,sample_size,margin_of_error_pct,awareness_score,consideration_score,purchase_intent_score,methodology_notes
+Q2_2021,2021-06,2021-06-01,2021-07-15,1117,2.7,87.8,50.1,36.9,No methodology changes documented — confirm with Intel research agency
+Q4_2021,2021-12,2021-12-01,2022-01-15,1283,2.7,87.2,48.2,37.0,No methodology changes documented — confirm with Intel research agency
+Q2_2022,2022-06,2022-06-01,2022-07-15,1241,2.6,85.8,48.2,35.4,No methodology changes documented — confirm with Intel research agency
+Q4_2022,2022-11,2022-11-01,2022-12-15,1204,2.9,87.8,49.1,37.1,No methodology changes documented — confirm with Intel research agency
+Q1_2023,2023-02,2023-02-01,2023-04-15,1293,2.8,84.9,47.3,35.0,No methodology changes documented — confirm with Intel research agency
+Q2_2023,2023-06,2023-06-01,2023-06-30,1258,2.7,86.8,50.8,35.7,No methodology changes documented — confirm with Intel research agency
+Q3_2023,2023-08,2023-08-01,2023-09-15,1270,3.0,87.1,49.5,36.3,No methodology changes documented — confirm with Intel research agency
+Q4_2023,2023-11,2023-11-01,2023-12-15,1174,3.0,87.5,50.9,38.1,No methodology changes documented — confirm with Intel research agency
+Q1_2024,2024-02,2024-02-01,2024-03-15,1170,2.8,86.4,49.3,36.0,No methodology changes documented — confirm with Intel research agency
+Q2_2024,2024-05,2024-05-01,2024-06-15,1209,2.8,85.4,50.0,35.7,No methodology changes documented — confirm with Intel research agency
+Q4_2024,2024-11,2024-11-01,2024-12-15,1260,2.6,86.4,50.0,37.7,No methodology changes documented — confirm with Intel research agency
+Q2_2025,2025-05,2025-05-01,2025-06-15,1103,2.6,87.4,50.5,35.5,No methodology changes documented — confirm with Intel research agency
+Q4_2025,2025-11,2025-11-01,2025-12-15,1152,2.6,87.2,51.2,37.6,No methodology changes documented — confirm with Intel research agency
