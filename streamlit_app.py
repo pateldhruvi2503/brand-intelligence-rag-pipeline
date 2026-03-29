@@ -1,6 +1,10 @@
 import os
 import glob
 import pandas as pd
+
+import logging
+logging.getLogger("streamlit.watcher.local_sources_watcher").setLevel(logging.ERROR)
+
 import streamlit as st
 import plotly.express as px
 from dataclasses import dataclass
