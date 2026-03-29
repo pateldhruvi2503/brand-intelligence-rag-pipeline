@@ -1,14 +1,13 @@
-cat > requirements.txt << 'EOF'
-langchain
-langchain-community
-langchain-google-genai
-langchain-classic
-langchain-text-splitters
-sentence-transformers
-faiss-cpu
-python-dotenv
-streamlit
-plotly
-pandas
-google-generativeai
-EOF
+langchain==1.2.13
+langchain-community==0.4.1
+langchain-google-genai==4.2.1
+langchain-classic==1.0.3
+langchain-text-splitters==1.1.1
+langchain-core==1.2.22
+sentence-transformers==4.1.0
+faiss-cpu==1.13.2
+python-dotenv==0.21.0
+streamlit==1.43.0
+plotly==5.24.1
+pandas==2.2.0
+google-generativeai==0.8.5
