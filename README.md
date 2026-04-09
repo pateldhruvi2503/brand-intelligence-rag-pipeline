@@ -2,7 +2,7 @@
 
 > A hybrid RAG system that transforms 17 heterogeneous brand data sources into an intelligent Q&A interface — enabling stakeholders to ask brand performance questions in plain English and get instant answers instead of manually searching across files.
 
-**Powered by RAG + Pandas + Gemini **
+**Powered by RAG + Pandas + Gemini**
 
 ---
 
