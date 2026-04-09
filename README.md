@@ -10,7 +10,7 @@
 
 Traditional brand analytics requires manually digging through multiple data files to answer a single question. This system replaces that workflow with a conversational AI interface.
 
-**Before:** Open 17 files, search manually, piece together an answer
+**Before:** Open various files, search manually, piece together an answer
 **After:** Type your question, get an instant answer with source citations
 
 ---
@@ -18,7 +18,7 @@ Traditional brand analytics requires manually digging through multiple data file
 ## Architecture
 
 ### 1. 9-Agent Data Cleaning Pipeline
-Engineered a parallel data cleaning workflow using multi-agent terminal sessions — each agent owned one data source end to end, running simultaneously to automate cleaning across 17 files:
+Engineered a parallel data cleaning workflow using multi-agent terminal sessions — each agent owned one data source end to end, running simultaneously to automate cleaning across various files:
 
 | Agent | Data Source | What It Does |
 |---|---|---|
